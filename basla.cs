@@ -7,13 +7,7 @@
 
             var satir3 = "";
 
-         
-
-
-
             StringBuilder sonuc = new StringBuilder();
-
-         
 
             for (int i = 0; i < 8; i++)
             {
